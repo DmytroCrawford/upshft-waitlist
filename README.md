@@ -1,3 +1,7 @@
+This is the waitlist for my app UpShft, a racing platform for the slowest race car drivers to get moderately faster. Feel free to steal the code because thats what I did to be honest. Also, star this so I look like I know what I am doing. 
+
+## Normal ReadMe
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
